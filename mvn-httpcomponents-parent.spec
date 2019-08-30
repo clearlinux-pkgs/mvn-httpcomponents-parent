@@ -4,7 +4,7 @@
 #
 Name     : mvn-httpcomponents-parent
 Version  : 10
-Release  : 3
+Release  : 4
 URL      : https://github.com/apache/httpcomponents-parent/archive/10.tar.gz
 Source0  : https://github.com/apache/httpcomponents-parent/archive/10.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
